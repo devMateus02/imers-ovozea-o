@@ -1469,6 +1469,10 @@ align-items: center;
   align-items: center;
 }
 
+.hero__content{
+  margin: 0;
+}
+
   .hero__title { font-size: clamp(2.8rem, 10vw, 4rem); }
   .hero__image-frame { aspect-ratio: 1/1; max-width: 280px; border-radius: 50%; }
   .hero__image-border { border-radius: 50%; }
